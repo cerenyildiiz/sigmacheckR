@@ -1,2 +1,2 @@
 # sigmacheckR
-R package for checking sigma algebras
+ Dev. R package for checking sigma algebras
