@@ -1,8 +1,10 @@
 # sigmacheckR
 
 A simple R package for checking whether a family of sets forms a sigma-algebra.
-#Installation
-You can install the development version of animalsoundr from GitHub with:
+
+# Installation
+
+You can install the development version of sigmacheckR from GitHub with:
 
 ```{r}
 install.packages("devtools")
