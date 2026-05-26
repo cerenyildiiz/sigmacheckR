@@ -12,4 +12,5 @@ devtools::install_github("cerenyildiiz/sigmacheckR")
 
 ```
 
-<img width="917" height="571" alt="image" src="https://github.com/user-attachments/assets/f22b2baf-cc2c-48c5-ab3f-6cbece51698c" />
+<img width="2048" height="1100" alt="image" src="https://github.com/user-attachments/assets/d7fc0460-0a71-4b6b-8515-8bb40a45eec2" />
+
